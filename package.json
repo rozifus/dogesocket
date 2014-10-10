@@ -1,0 +1,8 @@
+{
+  "name": "dogesocket",
+  "packages": [],
+  "dependencies": {
+    "browserify": "^6.0.3",
+    "coffee-script": "^1.8.0"
+  }
+}
